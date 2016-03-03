@@ -36,6 +36,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 * Amazing free [stock images](https://bootstrapbay.com/blog/free-stock-photos/). Because every web designer knows how hard it is to find good free stock images.
 * How could you not use these [free tools](http://blog.ghost.org/distributed-team-tools/)?
 * This is [a tool](http://www.textise.net/) I use when I don't have enough data left for browsing.
+* My awesome domain name is registered for free at [FreeDNS](https://freedns.afraid.org). While there don't forget to say hi to my man, Joshua Anderson.
 
 #### <i class="fa fa-wheelchair"></i> Fallacies of the Web
 
