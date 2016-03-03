@@ -24,5 +24,9 @@ Besides mathematics I love writing stories. I have dozens of secret notebooks wh
 <div class="well">
 <h4 class="center">Disclaimer </h4>
 This website is completely static. As you can see, I've set only two cookies -- one to track you and the other to make your user experience slightly better. I don't use a third party to track my users. Instead, I host a free open source software called Piwik at this <a href="http://pwiki-standing.rhcloud.com">domain</a>. Piwik is set up so that only the first two fields of your I.P address are collected. This is in accordance with the laws in some countries like Germany.
+<h5 class="center">Update</h5>
+As of 3 March, 2016, I no longer use Piwik. In fact I've disabled tracking altogether.
 </div>
+
+
 
