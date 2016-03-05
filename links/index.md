@@ -43,10 +43,16 @@ modified: 2014-08-08T19:44:38.564948-04:00
 * Business Insider is a well respected organization. How they'd let such an article slip through is beyond me. Titled "[If you can solve these Math problems, you are smart as the worlds smartest teenagers](http://www.businessinsider.com/if-you-can-solve-these-math-problems-you-are-as-smart-as-the-worlds-smartest-teenagers-2013-5?op=1)", this article is a one stop exercise in utter nonsense. Those Math problems aren't half as tough as they seem to think and solving tough problems doesn't make you the worlds smartest teenager. I could introduce you to a whole realm full of teenagers who routinely solve even more difficult problems than those. 
 * You need to get your ideas checked [here](http://math.ucr.edu/home/baez/crackpot.html) at least once in your lifetime.
 
-#### Page Views
-
-* [Piwik Tracking](http://piwki-standing.rhcloud.com)
 
 #### Mirrors
 
 * Find this blog again at this [mirror](http://navigator-douglas-18745.netlify.com/).
+
+#### Acknowledgment
+
+* [Aleh and the Micronaut](http://themicronaut.github.io) for their take on the So Simple Theme.
+* [Mathias Nater](https://github.com/mnater) and his awesome hyphenate.js
+* [Netlify](https://www.netlify.com) for letting me host this website on their amazing CDN for free!
+* [Github](https://github.com) for hosting the backend.
+
+

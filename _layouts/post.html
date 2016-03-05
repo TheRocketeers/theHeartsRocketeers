@@ -52,7 +52,7 @@
         <span class="entry-readingtime" title="{{ page.content | number_of_words }} words"><i class="fa fa-clock-o"> </i>&nbsp;&nbsp;{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. reading </span>
         {% if page.share %}{% include social-share.html %}{% endif %}
       </footer>
-      <div class="entry-content">
+      <div class="entry-content hyphenate">
         {{ content }}
 		{% if page.pollid %} <div id="poll">{% include polls/poll-{{page.pollid}}.html %}</div> {% endif %}	
 
