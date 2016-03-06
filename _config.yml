@@ -57,11 +57,11 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Adrian Glitch
+  name: James Powell
   avatar: site-logo.png
-  email: thechief@therocketeers.cr.rs
+  email: jamespowell.auth@gmail.com
   disqus-shortname:
-  twitter: AdrianGlitch
+  twitter: 
   facebook: #username
   github: TheRocketeers
   stackexchange: #http://stackoverflow.com/users/123456/username
